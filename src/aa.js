@@ -6,6 +6,7 @@ class AA extends React.Component{
 	render(){
 		return(
 			<div>
+
 				<p>yangman</p>
 				<ul>
 					<li>11111</li>
@@ -19,6 +20,14 @@ class AA extends React.Component{
 				<div>
 					<p>aaaa <span>sdfsdfsg</span></p>
 				</div>
+
+			<ul>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			</ul>
+
+
 			</div>
 		)
 	}
